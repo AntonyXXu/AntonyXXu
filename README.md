@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi there, I'm Antony 👋
 
+## I'm a software developer and engineer
+- 🌱 I’m currently learning java and mobile applications
+- 🔭 I’m currently working on developing e-commerce websites
+- 🌐 Take a look at my website https://antonyxxu.github.io/
 <!--
 **AntonyXXu/AntonyXXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
