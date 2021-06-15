@@ -1,7 +1,7 @@
 # Hi there, I'm Antony 👋
 
 ## I'm a software developer and engineer
-- 🌱 I’m currently learning java and mobile applications
+- 🌱 I’m currently learning C++, Java, and mobile apps
 - 🔭 I’m currently working on developing e-commerce websites
 - 🌐 Take a look at my website https://antonyxxu.github.io/
 <!--
