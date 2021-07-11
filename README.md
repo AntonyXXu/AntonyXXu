@@ -1,8 +1,8 @@
 # Hi there, I'm Antony 👋
 
 ## I'm a software developer and engineer
-- 🌱 I’m currently learning C++, Java, and mobile apps
-- 🔭 I’m currently working on developing e-commerce websites
+- 🌱 I’m currently learning Java, Android Studio, and Design Patterns
+- 🔭 I’m currently working on Django
 - 🌐 Take a look at my website https://antonyxxu.github.io/
 <!--
 **AntonyXXu/AntonyXXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
