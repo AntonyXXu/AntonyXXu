@@ -2,7 +2,7 @@
 
 ## I'm a software developer and engineer
 - 🌱 I’m currently learning Java, Android Studio, and Design Patterns
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working on learning Django and building an ecommerce website
 - 🌐 Take a look at my website https://antonyxxu.github.io/
 <!--
 **AntonyXXu/AntonyXXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
